@@ -1,10 +1,3 @@
-# 📊 Dashboard Roleplay Interaktif
-
-Dashboard ini dibuat untuk memvisualisasikan data **Roleplay KC/UKER** secara interaktif.  
-Tujuan utama: memantau pencapaian roleplay rutin, total input, dan persentase capaian per unit kerja.
-
----
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
